@@ -1,0 +1,7 @@
+{
+  "name": "ionic3-barcode",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
